@@ -1,5 +1,7 @@
 # password-generator
 
+# Method 1
+
 This Project will genrate password which are hard to crack. Password is tested on a [Password Monster](https://www.passwordmonster.com/)
 
 Demo:-
@@ -9,7 +11,7 @@ Demo:-
 
 ![2](https://user-images.githubusercontent.com/104313938/204612181-3b1a3f76-5c03-4d07-85eb-d157697d7f37.PNG)
 
-
+# Mehod 2
 User can also add own password to make it more safe
 
 Before:-
